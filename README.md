@@ -17,4 +17,15 @@ Here are some ideas to get you started:
 > Programming Languages And Technologies :
 
 
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] PHP
+- [x] MySQL
+- [ ] SASS
+- [x] git & github
+- [ ] CLI
+- [x] Linux
+- [ ] Angular
+
 
